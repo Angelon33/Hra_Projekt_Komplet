@@ -1,0 +1,17 @@
+C:\Users\drevol02\source\repos\Hra_Projekt\Testy\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\drevol02\source\repos\Hra_Projekt\Testy\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\drevol02\source\repos\Hra_Projekt\Testy\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\drevol02\source\repos\Hra_Projekt\Testy\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\drevol02\source\repos\Hra_Projekt\Testy\bin\Debug\Testy.dll
+C:\Users\drevol02\source\repos\Hra_Projekt\Testy\bin\Debug\Testy.pdb
+C:\Users\drevol02\source\repos\Hra_Projekt\Testy\bin\Debug\BarevnaKonzole.dll
+C:\Users\drevol02\source\repos\Hra_Projekt\Testy\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\drevol02\source\repos\Hra_Projekt\Testy\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\drevol02\source\repos\Hra_Projekt\Testy\bin\Debug\BarevnaKonzole.pdb
+C:\Users\drevol02\source\repos\Hra_Projekt\Testy\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\drevol02\source\repos\Hra_Projekt\Testy\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\drevol02\source\repos\Hra_Projekt\Testy\obj\Debug\Testy.csproj.AssemblyReference.cache
+C:\Users\drevol02\source\repos\Hra_Projekt\Testy\obj\Debug\Testy.csproj.CoreCompileInputs.cache
+C:\Users\drevol02\source\repos\Hra_Projekt\Testy\obj\Debug\Testy.csproj.Up2Date
+C:\Users\drevol02\source\repos\Hra_Projekt\Testy\obj\Debug\Testy.dll
+C:\Users\drevol02\source\repos\Hra_Projekt\Testy\obj\Debug\Testy.pdb

@@ -1,0 +1,131 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "\\\\serverFPR\\Redir\\FPR\\drevol02\\Desktop\\ProjektWPF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA933F5-9941-4781-A9BD-F0B7E4F32959}|ProjektWPF\\ProjektWPF.csproj|\\\\serverFPR\\Redir\\FPR\\drevol02\\Desktop\\ProjektWPF\\projektwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA933F5-9941-4781-A9BD-F0B7E4F32959}|ProjektWPF\\ProjektWPF.csproj|\\\\serverFPR\\Redir\\FPR\\drevol02\\Desktop\\ProjektWPF\\projektwpf\\mistnost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA933F5-9941-4781-A9BD-F0B7E4F32959}|ProjektWPF\\ProjektWPF.csproj|\\\\serverFPR\\Redir\\FPR\\drevol02\\Desktop\\ProjektWPF\\projektwpf\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA933F5-9941-4781-A9BD-F0B7E4F32959}|ProjektWPF\\ProjektWPF.csproj|\\\\serverFPR\\Redir\\FPR\\drevol02\\Desktop\\ProjektWPF\\projektwpf\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA933F5-9941-4781-A9BD-F0B7E4F32959}|ProjektWPF\\ProjektWPF.csproj|\\\\serverFPR\\Redir\\FPR\\drevol02\\Desktop\\ProjektWPF\\projektwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA933F5-9941-4781-A9BD-F0B7E4F32959}|ProjektWPF\\ProjektWPF.csproj|\\\\serverfpr\\redir\\fpr\\drevol02\\desktop\\projektwpf\\projektwpf\\akceviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA933F5-9941-4781-A9BD-F0B7E4F32959}|ProjektWPF\\ProjektWPF.csproj|\\\\serverFPR\\Redir\\FPR\\drevol02\\Desktop\\ProjektWPF\\projektwpf\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindowViewModel.cs",
+              "DocumentMoniker": "\\\\serverFPR\\Redir\\FPR\\drevol02\\Desktop\\ProjektWPF\\ProjektWPF\\MainWindowViewModel.cs",
+              "RelativeDocumentMoniker": "ProjektWPF\\MainWindowViewModel.cs",
+              "ToolTip": "\\\\serverFPR\\Redir\\FPR\\drevol02\\Desktop\\ProjektWPF\\ProjektWPF\\MainWindowViewModel.cs",
+              "RelativeToolTip": "ProjektWPF\\MainWindowViewModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAEIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T19:40:38.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Mistnost.cs",
+              "DocumentMoniker": "\\\\serverFPR\\Redir\\FPR\\drevol02\\Desktop\\ProjektWPF\\ProjektWPF\\Mistnost.cs",
+              "RelativeDocumentMoniker": "ProjektWPF\\Mistnost.cs",
+              "ToolTip": "\\\\serverFPR\\Redir\\FPR\\drevol02\\Desktop\\ProjektWPF\\ProjektWPF\\Mistnost.cs",
+              "RelativeToolTip": "ProjektWPF\\Mistnost.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T19:39:08.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "\\\\serverFPR\\Redir\\FPR\\drevol02\\Desktop\\ProjektWPF\\ProjektWPF\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "ProjektWPF\\RelayCommand.cs",
+              "ToolTip": "\\\\serverFPR\\Redir\\FPR\\drevol02\\Desktop\\ProjektWPF\\ProjektWPF\\RelayCommand.cs",
+              "RelativeToolTip": "ProjektWPF\\RelayCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T20:20:24.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "\\\\serverFPR\\Redir\\FPR\\drevol02\\Desktop\\ProjektWPF\\ProjektWPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ProjektWPF\\MainWindow.xaml",
+              "ToolTip": "\\\\serverFPR\\Redir\\FPR\\drevol02\\Desktop\\ProjektWPF\\ProjektWPF\\MainWindow.xaml",
+              "RelativeToolTip": "ProjektWPF\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-27T09:58:16.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Room.cs",
+              "DocumentMoniker": "\\\\serverFPR\\Redir\\FPR\\drevol02\\Desktop\\ProjektWPF\\ProjektWPF\\Room.cs",
+              "RelativeDocumentMoniker": "ProjektWPF\\Room.cs",
+              "ToolTip": "\\\\serverFPR\\Redir\\FPR\\drevol02\\Desktop\\ProjektWPF\\ProjektWPF\\Room.cs",
+              "RelativeToolTip": "ProjektWPF\\Room.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T12:32:22.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "\\\\serverFPR\\Redir\\FPR\\drevol02\\Desktop\\ProjektWPF\\ProjektWPF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ProjektWPF\\MainWindow.xaml.cs",
+              "ToolTip": "\\\\serverFPR\\Redir\\FPR\\drevol02\\Desktop\\ProjektWPF\\ProjektWPF\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ProjektWPF\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T09:58:15.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AkceViewModel.cs",
+              "DocumentMoniker": "\\\\serverFPR\\Redir\\FPR\\drevol02\\Desktop\\ProjektWPF\\ProjektWPF\\AkceViewModel.cs",
+              "RelativeDocumentMoniker": "ProjektWPF\\AkceViewModel.cs",
+              "ToolTip": "\\\\serverFPR\\Redir\\FPR\\drevol02\\Desktop\\ProjektWPF\\ProjektWPF\\AkceViewModel.cs",
+              "RelativeToolTip": "ProjektWPF\\AkceViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T20:13:02.342Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

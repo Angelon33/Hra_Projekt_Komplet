@@ -1,0 +1,6 @@
+\\serverFPR\Redir\FPR\drevol02\Desktop\Projekt_Hra-main\Hra_model\obj\Debug\Hra_model.csproj.AssemblyReference.cache
+\\serverFPR\Redir\FPR\drevol02\Desktop\Projekt_Hra-main\Hra_model\obj\Debug\Hra_model.csproj.CoreCompileInputs.cache
+\\serverFPR\Redir\FPR\drevol02\Desktop\Projekt_Hra-main\Hra_model\bin\Debug\Hra_model.dll
+\\serverFPR\Redir\FPR\drevol02\Desktop\Projekt_Hra-main\Hra_model\bin\Debug\Hra_model.pdb
+\\serverFPR\Redir\FPR\drevol02\Desktop\Projekt_Hra-main\Hra_model\obj\Debug\Hra_model.dll
+\\serverFPR\Redir\FPR\drevol02\Desktop\Projekt_Hra-main\Hra_model\obj\Debug\Hra_model.pdb

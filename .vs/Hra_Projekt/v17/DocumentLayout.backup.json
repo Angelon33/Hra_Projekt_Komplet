@@ -1,0 +1,111 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "\\\\serverFPR\\Redir\\FPR\\drevol02\\Desktop\\Projekt_Hra-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA933F5-9941-4781-A9BD-F0B7E4F32959}|ProjektWPF\\ProjektWPF\\ProjektWPF.csproj|\\\\serverfpr\\redir\\fpr\\drevol02\\desktop\\projekt_hra-main\\projektwpf\\projektwpf\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA933F5-9941-4781-A9BD-F0B7E4F32959}|ProjektWPF\\ProjektWPF\\ProjektWPF.csproj|\\\\serverfpr\\redir\\fpr\\drevol02\\desktop\\projekt_hra-main\\projektwpf\\projektwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA933F5-9941-4781-A9BD-F0B7E4F32959}|ProjektWPF\\ProjektWPF\\ProjektWPF.csproj|\\\\serverfpr\\redir\\fpr\\drevol02\\desktop\\projekt_hra-main\\projektwpf\\projektwpf\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{415C9CD4-3FA4-4648-B962-EEECC6ADD100}|Hra_model\\Hra_model.csproj|\\\\serverfpr\\redir\\fpr\\drevol02\\desktop\\projekt_hra-main\\hra_model\\hra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{586B065F-6000-4EFB-B627-CE44C860F151}|Hra_Projekt.test\\Hra_Projekt.test.csproj|\\\\serverfpr\\redir\\fpr\\drevol02\\desktop\\projekt_hra-main\\hra_projekt.test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{415C9CD4-3FA4-4648-B962-EEECC6ADD100}|Hra_model\\Hra_model.csproj|\\\\serverfpr\\redir\\fpr\\drevol02\\desktop\\projekt_hra-main\\hra_model\\mistnost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Mistnost.cs",
+              "DocumentMoniker": "\\\\serverFPR\\Redir\\FPR\\drevol02\\Desktop\\Projekt_Hra-main\\Hra_model\\Mistnost.cs",
+              "RelativeDocumentMoniker": "Hra_model\\Mistnost.cs",
+              "ToolTip": "\\\\serverFPR\\Redir\\FPR\\drevol02\\Desktop\\Projekt_Hra-main\\Hra_model\\Mistnost.cs",
+              "RelativeToolTip": "Hra_model\\Mistnost.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T09:01:23.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "\\\\serverFPR\\Redir\\FPR\\drevol02\\Desktop\\Projekt_Hra-main\\Hra_Projekt.test\\Program.cs",
+              "RelativeDocumentMoniker": "Hra_Projekt.test\\Program.cs",
+              "ToolTip": "\\\\serverFPR\\Redir\\FPR\\drevol02\\Desktop\\Projekt_Hra-main\\Hra_Projekt.test\\Program.cs",
+              "RelativeToolTip": "Hra_Projekt.test\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T08:58:13.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Hra.cs",
+              "DocumentMoniker": "\\\\serverFPR\\Redir\\FPR\\drevol02\\Desktop\\Projekt_Hra-main\\Hra_model\\Hra.cs",
+              "RelativeDocumentMoniker": "Hra_model\\Hra.cs",
+              "ToolTip": "\\\\serverFPR\\Redir\\FPR\\drevol02\\Desktop\\Projekt_Hra-main\\Hra_model\\Hra.cs",
+              "RelativeToolTip": "Hra_model\\Hra.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T09:01:26.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindowViewModel.cs",
+              "DocumentMoniker": "\\\\serverFPR\\Redir\\FPR\\drevol02\\Desktop\\Projekt_Hra-main\\ProjektWPF\\ProjektWPF\\MainWindowViewModel.cs",
+              "RelativeDocumentMoniker": "ProjektWPF\\ProjektWPF\\MainWindowViewModel.cs",
+              "ToolTip": "\\\\serverFPR\\Redir\\FPR\\drevol02\\Desktop\\Projekt_Hra-main\\ProjektWPF\\ProjektWPF\\MainWindowViewModel.cs",
+              "RelativeToolTip": "ProjektWPF\\ProjektWPF\\MainWindowViewModel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T08:58:27.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "\\\\serverFPR\\Redir\\FPR\\drevol02\\Desktop\\Projekt_Hra-main\\ProjektWPF\\ProjektWPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ProjektWPF\\ProjektWPF\\MainWindow.xaml",
+              "ToolTip": "\\\\serverFPR\\Redir\\FPR\\drevol02\\Desktop\\Projekt_Hra-main\\ProjektWPF\\ProjektWPF\\MainWindow.xaml",
+              "RelativeToolTip": "ProjektWPF\\ProjektWPF\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-07T08:56:54.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "\\\\serverFPR\\Redir\\FPR\\drevol02\\Desktop\\Projekt_Hra-main\\ProjektWPF\\ProjektWPF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ProjektWPF\\ProjektWPF\\MainWindow.xaml.cs",
+              "ToolTip": "\\\\serverFPR\\Redir\\FPR\\drevol02\\Desktop\\Projekt_Hra-main\\ProjektWPF\\ProjektWPF\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ProjektWPF\\ProjektWPF\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAvwDAAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T08:55:26.269Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
