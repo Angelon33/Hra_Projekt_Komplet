@@ -57,7 +57,6 @@
     </ApplicationDefinition>
     <Compile Include="AkceViewModel.cs" />
     <Compile Include="MainWindowViewModel.cs" />
-    <Compile Include="OkolniMistnosti.cs" />
     <Compile Include="ZmenLokaci.cs" />
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>

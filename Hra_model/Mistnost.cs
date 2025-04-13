@@ -28,9 +28,8 @@ namespace Hra_model
         public string Popis {  get; set;  }
         //public List<Mistnost> Okolni { get; set; }
 
-        public ObservableCollection<Mistnost> OkolniMistnost { get; set; }
 
-
+        
 
         public List<Mistnost> okolni; //lazyLoading vytvoří List okolni až když je třeba -------- Nevýhoda musí se provést podmínka
 

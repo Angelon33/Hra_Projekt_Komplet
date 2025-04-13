@@ -24,13 +24,16 @@
         <Label Content="Okolní Lokace" HorizontalAlignment="Left" Margin="20,122,0,0" VerticalAlignment="Top" Width="230"/>
         <Label Content="Předměty v místnosti" HorizontalAlignment="Left" Margin="266,122,0,0" VerticalAlignment="Top" Width="230"/>
         <Label Content="NPC v místnosti" HorizontalAlignment="Left" Margin="512,122,0,0" VerticalAlignment="Top" Width="230"/>
-        <ListView d:ItemsSource="{Binding OkolniMistnost}" Margin="30,153,670,90">
+        <ListView Name="OkolniMistnosti" ItemsSource="{Binding OkolniMistnost}"  Margin="30,153,670,90" SelectionChanged="OkolniMistnosti_SelectionChanged">
             <ListView.View>
                 <GridView AllowsColumnReorder="true" ColumnHeaderToolTip="Nazev" >
-                    <GridViewColumn DisplayMemberBinding="{Binding Path=Jmeno}" Header="Jmeno"/>
+                    <GridViewColumn DisplayMemberBinding="{Binding Jmeno}" Header="Jmeno"/>
+                    
                 </GridView>
             </ListView.View>
+
         </ListView>
+
 
 
     </Grid>

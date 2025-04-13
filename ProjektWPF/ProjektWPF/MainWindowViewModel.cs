@@ -14,17 +14,24 @@ namespace ProjektWPF
    
     public class MainWindowViewModel : INotifyPropertyChanged
     {
-       
 
+       
         public event PropertyChangedEventHandler PropertyChanged;
         protected void OnPropertyChanged([CallerMemberName] string propertyName = null)
         {
             PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(propertyName));
         }
 
-        
-        private Hra hra;
+        private ObservableCollection<Mistnost> okolniMistnost;
 
+        public ObservableCollection<Mistnost> OkolniMistnost
+        {
+            get { return okolniMistnost; }
+            set { okolniMistnost = value; OnPropertyChanged(); }
+        }
+
+
+        private Hra hra;
         public Hra Hra
         {
             get { return hra; }
@@ -37,13 +44,20 @@ namespace ProjektWPF
         public MainWindowViewModel()
         {
             Hra = new Hra();
-            
-             
+            LoadCollectionData();
+            Hra G = new Hra();
 
 
 
 
         }
-       
+
+        public void LoadCollectionData()
+        {
+            OkolniMistnost = new ObservableCollection<Mistnost>(Hra.AktualniMistnost.Okolni);
+           
+
+        }
+
     }
 }

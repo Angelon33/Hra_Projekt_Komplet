@@ -27,7 +27,7 @@ namespace ProjektWPF
 
         //partial část třídy psaná tady, část je v grafické části
 
-        MainWindowViewModel viewModel;
+        public MainWindowViewModel viewModel;
        
         public MainWindow()
         {
@@ -35,7 +35,7 @@ namespace ProjektWPF
 
             viewModel = new MainWindowViewModel();
             DataContext = viewModel;
-            viewModel.Hra.AktualniMistnost.OkolniMistnost = new ObservableCollection<Mistnost>(viewModel.Hra.AktualniMistnost.Okolni);
+            
 
 
 
@@ -45,13 +45,19 @@ namespace ProjektWPF
         private void Button_Click_2(object sender, RoutedEventArgs e)
         {
             viewModel.Hra.AktualniMistnost = viewModel.Hra.AktualniMistnost.Okolni.First();
-
+            viewModel.LoadCollectionData();
         }
 
-        private void ListBox_SelectionChanged(object sender, SelectionChangedEventArgs e)
+
+
+        private void OkolniMistnosti_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
-            //ListView listView = (ListView)sender;
-            //listView.SelectedItem = //aktualni mistnost změnit 
+
+            ListView listView = (ListView)sender;
+            if(listView.SelectedItem == null)
+                return;
+            viewModel.Hra.AktualniMistnost = (Mistnost)listView.SelectedItem;
+            viewModel.LoadCollectionData();
         }
     }
 }
