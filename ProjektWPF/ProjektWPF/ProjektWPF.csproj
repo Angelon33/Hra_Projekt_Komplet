@@ -57,10 +57,8 @@
     </ApplicationDefinition>
     <Compile Include="AkceViewModel.cs" />
     <Compile Include="MainWindowViewModel.cs" />
-    <Compile Include="Mist.cs" />
+    <Compile Include="OkolniMistnosti.cs" />
     <Compile Include="ZmenLokaci.cs" />
-    <Compile Include="Room.cs" />
-    <Compile Include="ViewModelBase.cs" />
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>

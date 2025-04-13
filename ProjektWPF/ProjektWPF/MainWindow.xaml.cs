@@ -1,6 +1,8 @@
 ﻿
+using Hra_model;
 using System;
 using System.Collections.Generic;
+using System.Collections.ObjectModel;
 using System.Linq;
 using System.Security.Cryptography;
 using System.Text;
@@ -26,13 +28,16 @@ namespace ProjektWPF
         //partial část třídy psaná tady, část je v grafické části
 
         MainWindowViewModel viewModel;
-        
+       
         public MainWindow()
         {
             InitializeComponent();
 
             viewModel = new MainWindowViewModel();
             DataContext = viewModel;
+            viewModel.Hra.AktualniMistnost.OkolniMistnost = new ObservableCollection<Mistnost>(viewModel.Hra.AktualniMistnost.Okolni);
+
+
 
         }
 
@@ -45,8 +50,8 @@ namespace ProjektWPF
 
         private void ListBox_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
-            ListView listView = (ListView)sender;
-            listView.SelectedItem = //aktualni mistnost změnit 
+            //ListView listView = (ListView)sender;
+            //listView.SelectedItem = //aktualni mistnost změnit 
         }
     }
 }

@@ -1,7 +1,11 @@
 ﻿
 using System;
+using System.Collections;
 using System.Collections.Generic;
+using System.Collections.ObjectModel;
+using System.ComponentModel;
 using System.Linq;
+using System.Runtime.CompilerServices;
 using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
@@ -11,13 +15,21 @@ namespace Hra_model
 {
     
 
-    public class Mistnost
+    public class Mistnost : INotifyPropertyChanged
     {
         
-       
+        public event PropertyChangedEventHandler PropertyChanged;
+        protected void OnPropertyChanged([CallerMemberName] string propertyName = null)
+        {
+            PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(propertyName));
+        }
+
         public string Jmeno { get; set; }
-        public string Popis {  get; set; }
+        public string Popis {  get; set;  }
         //public List<Mistnost> Okolni { get; set; }
+
+        public ObservableCollection<Mistnost> OkolniMistnost { get; set; }
+
 
 
         public List<Mistnost> okolni; //lazyLoading vytvoří List okolni až když je třeba -------- Nevýhoda musí se provést podmínka
@@ -27,8 +39,16 @@ namespace Hra_model
             get {
                 if (okolni == null) okolni = new List<Mistnost>(); //když je null tak ho vytvoř a vrať
                 return okolni; }
-            set { okolni = value; }
+            set { okolni = value; OnPropertyChanged(); }
+
         }
+
+       
+
+       
+
+
+
 
         public List<Predmety> predmetMistnost; 
 
@@ -76,6 +96,7 @@ namespace Hra_model
         {
             Jmeno = jmeno;
             Popis = popis;
+            
 
         }
         

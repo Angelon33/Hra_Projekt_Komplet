@@ -21,7 +21,7 @@ namespace Hra_Projekt.test
             //předpřipravit si knihovnu s knihovnama
             hra = new Hra();    
 
-
+            
 
            
             bool hraBezi = true;

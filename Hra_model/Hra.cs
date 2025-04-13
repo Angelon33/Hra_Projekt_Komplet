@@ -1,5 +1,7 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
+using System.Collections.ObjectModel;
 using System.ComponentModel;
 using System.Linq;
 using System.Runtime.CompilerServices;
@@ -19,12 +21,14 @@ namespace Hra_model
 
         public Postava postava;
 
-        private Mistnost aktualniMistnost;
+        public Mistnost aktualniMistnost;
         public Mistnost AktualniMistnost
         {
             get { return aktualniMistnost; }
             set { aktualniMistnost = value; OnPropertyChanged(); }
         }
+        
+        
 
         public Hra() {
 
@@ -54,6 +58,7 @@ namespace Hra_model
             y.NpcMistnost.Add(ucen);
             y.PredmetMistnost.Add(mec);
             y.PredmetMistnost.Add(kladivo);
+
 
         }
 

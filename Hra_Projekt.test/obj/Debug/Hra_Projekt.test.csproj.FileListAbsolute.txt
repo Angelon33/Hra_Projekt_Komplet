@@ -51,3 +51,15 @@ C:\Users\Angelon1\Desktop\prg\Hra_Projekt\Hra_Projekt.test\obj\Debug\Hra_Projekt
 \\serverFPR\Redir\FPR\drevol02\Desktop\Projekt_Hra-main\Hra_Projekt.test\bin\Debug\BarevnaKonzole.pdb
 \\serverFPR\Redir\FPR\drevol02\Desktop\Projekt_Hra-main\Hra_Projekt.test\bin\Debug\Hra_model.pdb
 \\serverFPR\Redir\FPR\drevol02\Desktop\Projekt_Hra-main\Hra_Projekt.test\obj\Debug\Hra_Proj.D29500DC.Up2Date
+C:\Users\Angelon1\Documents\GitHub\Hra_Projekt_Komplet\Hra_Projekt.test\bin\Debug\Hra_Projekt.test.exe.config
+C:\Users\Angelon1\Documents\GitHub\Hra_Projekt_Komplet\Hra_Projekt.test\bin\Debug\Hra_Projekt.test.exe
+C:\Users\Angelon1\Documents\GitHub\Hra_Projekt_Komplet\Hra_Projekt.test\bin\Debug\Hra_Projekt.test.pdb
+C:\Users\Angelon1\Documents\GitHub\Hra_Projekt_Komplet\Hra_Projekt.test\bin\Debug\BarevnaKonzole.dll
+C:\Users\Angelon1\Documents\GitHub\Hra_Projekt_Komplet\Hra_Projekt.test\bin\Debug\Hra_model.dll
+C:\Users\Angelon1\Documents\GitHub\Hra_Projekt_Komplet\Hra_Projekt.test\bin\Debug\BarevnaKonzole.pdb
+C:\Users\Angelon1\Documents\GitHub\Hra_Projekt_Komplet\Hra_Projekt.test\bin\Debug\Hra_model.pdb
+C:\Users\Angelon1\Documents\GitHub\Hra_Projekt_Komplet\Hra_Projekt.test\obj\Debug\Hra_Projekt.test.csproj.AssemblyReference.cache
+C:\Users\Angelon1\Documents\GitHub\Hra_Projekt_Komplet\Hra_Projekt.test\obj\Debug\Hra_Projekt.test.csproj.CoreCompileInputs.cache
+C:\Users\Angelon1\Documents\GitHub\Hra_Projekt_Komplet\Hra_Projekt.test\obj\Debug\Hra_Proj.D29500DC.Up2Date
+C:\Users\Angelon1\Documents\GitHub\Hra_Projekt_Komplet\Hra_Projekt.test\obj\Debug\Hra_Projekt.test.exe
+C:\Users\Angelon1\Documents\GitHub\Hra_Projekt_Komplet\Hra_Projekt.test\obj\Debug\Hra_Projekt.test.pdb
