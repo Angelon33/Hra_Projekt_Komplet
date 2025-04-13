@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Angelon1\\Documents\\GitHub\\Hra_Projekt_Komplet\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DFA933F5-9941-4781-A9BD-F0B7E4F32959}|ProjektWPF\\ProjektWPF\\ProjektWPF.csproj|C:\\Users\\Angelon1\\Documents\\GitHub\\Hra_Projekt_Komplet\\projektwpf\\projektwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFA933F5-9941-4781-A9BD-F0B7E4F32959}|ProjektWPF\\ProjektWPF\\ProjektWPF.csproj|solutionrelative:projektwpf\\projektwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DFA933F5-9941-4781-A9BD-F0B7E4F32959}|ProjektWPF\\ProjektWPF\\ProjektWPF.csproj|C:\\Users\\Angelon1\\Documents\\GitHub\\Hra_Projekt_Komplet\\projektwpf\\projektwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DFA933F5-9941-4781-A9BD-F0B7E4F32959}|ProjektWPF\\ProjektWPF\\ProjektWPF.csproj|solutionrelative:projektwpf\\projektwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DFA933F5-9941-4781-A9BD-F0B7E4F32959}|ProjektWPF\\ProjektWPF\\ProjektWPF.csproj|c:\\users\\angelon1\\documents\\github\\hra_projekt_komplet\\projektwpf\\projektwpf\\mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{DFA933F5-9941-4781-A9BD-F0B7E4F32959}|ProjektWPF\\ProjektWPF\\ProjektWPF.csproj|C:\\Users\\Angelon1\\Documents\\GitHub\\Hra_Projekt_Komplet\\projektwpf\\projektwpf\\mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{DFA933F5-9941-4781-A9BD-F0B7E4F32959}|ProjektWPF\\ProjektWPF\\ProjektWPF.csproj|solutionrelative:projektwpf\\projektwpf\\mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DFA933F5-9941-4781-A9BD-F0B7E4F32959}|ProjektWPF\\ProjektWPF\\ProjektWPF.csproj|C:\\Users\\Angelon1\\Documents\\GitHub\\Hra_Projekt_Komplet\\projektwpf\\projektwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{DFA933F5-9941-4781-A9BD-F0B7E4F32959}|ProjektWPF\\ProjektWPF\\ProjektWPF.csproj|solutionrelative:projektwpf\\projektwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{DFA933F5-9941-4781-A9BD-F0B7E4F32959}|ProjektWPF\\ProjektWPF\\ProjektWPF.csproj|c:\\users\\angelon1\\documents\\github\\hra_projekt_komplet\\projektwpf\\projektwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA933F5-9941-4781-A9BD-F0B7E4F32959}|ProjektWPF\\ProjektWPF\\ProjektWPF.csproj|solutionrelative:projektwpf\\projektwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DFA933F5-9941-4781-A9BD-F0B7E4F32959}|ProjektWPF\\ProjektWPF\\ProjektWPF.csproj|C:\\Users\\Angelon1\\Documents\\GitHub\\Hra_Projekt_Komplet\\projektwpf\\projektwpf\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
@@ -63,16 +63,16 @@
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\Angelon1\\Documents\\GitHub\\Hra_Projekt_Komplet\\ProjektWPF\\ProjektWPF\\MainWindow.xaml",
               "RelativeDocumentMoniker": "ProjektWPF\\ProjektWPF\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\Angelon1\\Documents\\GitHub\\Hra_Projekt_Komplet\\ProjektWPF\\ProjektWPF\\MainWindow.xaml",
-              "RelativeToolTip": "ProjektWPF\\ProjektWPF\\MainWindow.xaml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAiwB0AAABEAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Angelon1\\Documents\\GitHub\\Hra_Projekt_Komplet\\ProjektWPF\\ProjektWPF\\MainWindow.xaml*",
+              "RelativeToolTip": "ProjektWPF\\ProjektWPF\\MainWindow.xaml*",
+              "ViewState": "AgIAABEAAAAAAAAAAAD4vyIAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-04-13T18:43:11.836Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Angelon1\\Documents\\GitHub\\Hra_Projekt_Komplet\\ProjektWPF\\ProjektWPF\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "ProjektWPF\\ProjektWPF\\MainWindow.xaml.cs",
@@ -93,17 +93,16 @@
               "RelativeToolTip": "ProjektWPF\\ProjektWPF\\MainWindowViewModel.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAAYwDcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T11:23:19.087Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-07T11:23:19.087Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\Angelon1\\Documents\\GitHub\\Hra_Projekt_Komplet\\ProjektWPF\\ProjektWPF\\MainWindow.xaml",
               "RelativeDocumentMoniker": "ProjektWPF\\ProjektWPF\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\Angelon1\\Documents\\GitHub\\Hra_Projekt_Komplet\\ProjektWPF\\ProjektWPF\\MainWindow.xaml",
-              "RelativeToolTip": "ProjektWPF\\ProjektWPF\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Angelon1\\Documents\\GitHub\\Hra_Projekt_Komplet\\ProjektWPF\\ProjektWPF\\MainWindow.xaml*",
+              "RelativeToolTip": "ProjektWPF\\ProjektWPF\\MainWindow.xaml*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-04-13T19:09:13.712Z",
               "EditorCaption": ""
@@ -118,8 +117,7 @@
               "RelativeToolTip": "Hra_model\\Mistnost.cs",
               "ViewState": "AgIAACUAAAAAAAAAAAAkwB8AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T11:25:21.046Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-07T11:25:21.046Z"
             },
             {
               "$type": "Document",
@@ -131,8 +129,7 @@
               "RelativeToolTip": "Hra_Projekt.test\\Program.cs",
               "ViewState": "AgIAADgAAAAAAAAAAAAQwEEAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T11:53:56.541Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-07T11:53:56.541Z"
             },
             {
               "$type": "Document",
