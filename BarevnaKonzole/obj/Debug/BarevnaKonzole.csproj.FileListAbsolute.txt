@@ -34,3 +34,9 @@ C:\Users\Angelon1\Documents\GitHub\Hra_Projekt_Komplet\BarevnaKonzole\obj\Debug\
 C:\Users\Angelon1\Documents\GitHub\Hra_Projekt_Komplet\BarevnaKonzole\obj\Debug\BarevnaKonzole.csproj.CoreCompileInputs.cache
 C:\Users\Angelon1\Documents\GitHub\Hra_Projekt_Komplet\BarevnaKonzole\obj\Debug\BarevnaKonzole.dll
 C:\Users\Angelon1\Documents\GitHub\Hra_Projekt_Komplet\BarevnaKonzole\obj\Debug\BarevnaKonzole.pdb
+\\serverFPR\Redir\FPR\drevol02\Desktop\prg\Hra_Projekt_Komplet-main\BarevnaKonzole\bin\Debug\BarevnaKonzole.dll
+\\serverFPR\Redir\FPR\drevol02\Desktop\prg\Hra_Projekt_Komplet-main\BarevnaKonzole\bin\Debug\BarevnaKonzole.pdb
+\\serverFPR\Redir\FPR\drevol02\Desktop\prg\Hra_Projekt_Komplet-main\BarevnaKonzole\obj\Debug\BarevnaKonzole.csproj.AssemblyReference.cache
+\\serverFPR\Redir\FPR\drevol02\Desktop\prg\Hra_Projekt_Komplet-main\BarevnaKonzole\obj\Debug\BarevnaKonzole.csproj.CoreCompileInputs.cache
+\\serverFPR\Redir\FPR\drevol02\Desktop\prg\Hra_Projekt_Komplet-main\BarevnaKonzole\obj\Debug\BarevnaKonzole.dll
+\\serverFPR\Redir\FPR\drevol02\Desktop\prg\Hra_Projekt_Komplet-main\BarevnaKonzole\obj\Debug\BarevnaKonzole.pdb

@@ -54,6 +54,8 @@ namespace ProjektWPF
 
         public void LoadCollectionData()
         {
+            //
+
             OkolniMistnost = new ObservableCollection<Mistnost>(Hra.AktualniMistnost.Okolni);
            
 

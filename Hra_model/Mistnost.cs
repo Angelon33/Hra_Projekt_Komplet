@@ -31,7 +31,7 @@ namespace Hra_model
 
         
 
-        public List<Mistnost> okolni; //lazyLoading vytvoří List okolni až když je třeba -------- Nevýhoda musí se provést podmínka
+        private List<Mistnost> okolni; //lazyLoading vytvoří List okolni až když je třeba -------- Nevýhoda musí se provést podmínka
 
         public List<Mistnost> Okolni
         {
@@ -42,20 +42,22 @@ namespace Hra_model
 
         }
 
-       
 
-       
-
+        
 
 
 
-        public List<Predmety> predmetMistnost; 
 
-        public List<Predmety> PredmetMistnost
+
+
+
+        public List<Items> predmetMistnost; 
+
+        public List<Items> PredmetMistnost
         {
             get
             {
-                if (predmetMistnost == null) predmetMistnost = new List<Predmety>(); //když je null tak ho vytvoř a vrať
+                if (predmetMistnost == null) predmetMistnost = new List<Items>(); //když je null tak ho vytvoř a vrať
                 return predmetMistnost;
             }
             set { predmetMistnost = value; }

@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Reflection.Emit;
 using System.Runtime.CompilerServices;
@@ -7,6 +8,7 @@ using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading.Tasks;
 using Hra_model;
+using Newtonsoft.Json;
 
 namespace Hra_Projekt.test
 {
@@ -22,8 +24,8 @@ namespace Hra_Projekt.test
             hra = new Hra();    
 
             
+            
 
-           
             bool hraBezi = true;
 
 
@@ -34,11 +36,40 @@ namespace Hra_Projekt.test
             vypisovac.VypisOdstavec("Pepík", ConsoleColor.Red);        
             vypisovac.VypisOdstavec("Stiskni libovolné tlačítko pro pokračování");
             Console.ReadKey();
+        
+            /*
+           using (StreamWriter file = File.CreateText(Directory.GetCurrentDirectory() + "\\mistnosti.txt"))
+                {
+                    JsonSerializer serializer = new JsonSerializer();
 
-           
+                    serializer.Formatting = Formatting.Indented;
+                    serializer.PreserveReferencesHandling = PreserveReferencesHandling.Objects;
+
+                    serializer.Serialize(file, hra.ListMistnosti);
+
+
+                }
+              
+          */
+          
+            /*
+            string filecontent = File.ReadAllText(Directory.GetCurrentDirectory() + "\\mistnosti.txt");
+            JsonSerializer deserializer = new JsonSerializer();
+            deserializer.Formatting = Formatting.Indented;
+            deserializer.PreserveReferencesHandling = PreserveReferencesHandling.Objects;
+            var x = deserializer.Deserialize<List<Mistnost>>(new JsonTextReader(new StringReader(filecontent)));
+            
+            */
+            
+            //hra.AktualniMistnost = x[0];
+
+
             while (hraBezi)
             {
                 
+
+                
+
                 Console.Clear();
                 vypisovac.Vypis("Tvá postava se nachází ve: ", ConsoleColor.White, ConsoleColor.Black);
                 PopisSe(hra.aktualniMistnost);
@@ -161,7 +192,7 @@ namespace Hra_Projekt.test
 
             vypisovac.VypisOdstavec("Vidíš před sebou tyto věci: ");
             int i = 0;
-            foreach (Predmety p in aktualniMistnost.PredmetMistnost) //iteruje přes ten list
+            foreach (Items p in aktualniMistnost.PredmetMistnost) //iteruje přes ten list
             {
                 vypisovac.VypisOdstavec($"{i + 1}: {p.JmenoPredmetu}", ConsoleColor.Red);
                 i++;
@@ -212,7 +243,7 @@ namespace Hra_Projekt.test
         {
             vypisovac.VypisOdstavec("V inventáři máš tyto věci: ");
             int i = 0;
-            foreach (Predmety p in postava.PredmetPostavy) //iteruje přes ten list
+            foreach (Items p in postava.PredmetPostavy) //iteruje přes ten list
             {
                 vypisovac.VypisOdstavec($"{i + 1}: {p.JmenoPredmetu}", ConsoleColor.White, ConsoleColor.DarkRed);
                 i++;
@@ -221,7 +252,7 @@ namespace Hra_Projekt.test
 
 
         }
-        public void PredmetPopis(Predmety predmety)
+        public void PredmetPopis(Items predmety)
         {
 
             vypisovac.Vypis($" {predmety.JmenoPredmetu}, Popis: {predmety.PopisPredmetu}", ConsoleColor.Blue);

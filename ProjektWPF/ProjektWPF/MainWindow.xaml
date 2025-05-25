@@ -4,8 +4,14 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:ProjektWPF"
+         xmlns:lex="http://wpflocalizeextension.codeplex.com"
+ lex:LocalizeDictionary.DesignCulture="en-US"
+ lex:ResxLocalizationProvider.DefaultAssembly="ProjektWPF"
+ lex:ResxLocalizationProvider.DefaultDictionary="Lokalizace"
         mc:Ignorable="d"
-        Title="Projekt" Height="450" Width="800" MinWidth="920" MinHeight="450">
+        Title="Projekt" Height="450" Width="800" MinWidth="920" MinHeight="450"
+       >
+        
     <Grid>
         <Grid.ColumnDefinitions>
             <ColumnDefinition/>
@@ -13,26 +19,25 @@
         </Grid.ColumnDefinitions>
 
 
-        <TextBlock HorizontalAlignment="Left" Margin="87,79,0,0" TextWrapping="Wrap" Text="{Binding Hra.AktualniMistnost.Popis}" VerticalAlignment="Top" RenderTransformOrigin="0.204,1.157" Width="359"/>
-        <TextBlock HorizontalAlignment="Left" Margin="87,48,0,0" TextWrapping="Wrap" Text="{Binding Hra.AktualniMistnost.Jmeno}" VerticalAlignment="Top" RenderTransformOrigin="0.204,1.157" Width="359"/>
-        <Label Content="Místnost:" HorizontalAlignment="Left" Margin="10,43,0,0" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="153,79,0,0" TextWrapping="Wrap" Text="{Binding Hra.AktualniMistnost.Popis}" VerticalAlignment="Top" RenderTransformOrigin="0.204,1.157" Width="359"/>
+        <TextBlock HorizontalAlignment="Left" Margin="153,48,0,0" TextWrapping="Wrap" Text="{Binding Hra.AktualniMistnost.Jmeno}" VerticalAlignment="Top" RenderTransformOrigin="0.204,1.157" Width="359"/>
+        <Label Content="{lex:Loc Key=NameOftheRoom}" HorizontalAlignment="Left" Margin="10,43,0,0" VerticalAlignment="Top"/>
 
-        <Label Content="Popis:" HorizontalAlignment="Left" Margin="10,74,0,0" VerticalAlignment="Top"/>
+        <Label Content="{lex:Loc Key=DescOftheRoom}" HorizontalAlignment="Left" Margin="10,74,0,0" VerticalAlignment="Top"/>
 
 
-        <Button Content="Button" HorizontalAlignment="Left" Margin="739,67,0,0" VerticalAlignment="Top" Click="Button_Click_2"/>
-        <Label Content="Okolní Lokace" HorizontalAlignment="Left" Margin="20,122,0,0" VerticalAlignment="Top" Width="230"/>
-        <Label Content="Předměty v místnosti" HorizontalAlignment="Left" Margin="266,122,0,0" VerticalAlignment="Top" Width="230"/>
-        <Label Content="NPC v místnosti" HorizontalAlignment="Left" Margin="512,122,0,0" VerticalAlignment="Top" Width="230"/>
+        <Button Content="EN" HorizontalAlignment="Left" Margin="739,67,0,0" VerticalAlignment="Top" Click="Button_Click"/>
+        <Label Content="{lex:Loc Key=OkolniLokaceLang}" HorizontalAlignment="Left" Margin="30,122,0,0" VerticalAlignment="Top" Width="230"/>
         <ListView Name="OkolniMistnosti" ItemsSource="{Binding OkolniMistnost}"  Margin="30,153,670,90" SelectionChanged="OkolniMistnosti_SelectionChanged">
             <ListView.View>
                 <GridView AllowsColumnReorder="true" ColumnHeaderToolTip="Nazev" >
-                    <GridViewColumn DisplayMemberBinding="{Binding Jmeno}" Header="Jmeno"/>
+                    <GridViewColumn DisplayMemberBinding="{Binding Jmeno}" Header="{lex:Loc HeaderLang}"/>
                     
                 </GridView>
             </ListView.View>
 
         </ListView>
+        <Button Content="CZ"  HorizontalAlignment="Left" Margin="739,107,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.304,-0.246" Click="Button_Click_3"/>
 
 
 
