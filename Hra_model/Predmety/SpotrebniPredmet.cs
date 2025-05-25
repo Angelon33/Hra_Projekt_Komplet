@@ -8,10 +8,9 @@ namespace Hra_model.Predmety
 {
     internal class SpotrebniPredmet : Predmet
     {
-        public SpotrebniPredmet(string NazevPredmetu, TypPredmetu Typ)
+        public SpotrebniPredmet(string NazevPredmetu, string PopisPredmetu) : base(NazevPredmetu, PopisPredmetu)
         {
-            this.NazevPredmetu = NazevPredmetu;
-            this.Typ = Typ;
+            
         }
 
         

@@ -132,4 +132,7 @@
   <data name="NameOftheRoom" xml:space="preserve">
     <value>s</value>
   </data>
+  <data name="HeaderInventory" xml:space="preserve">
+    <value>a</value>
+  </data>
 </root>

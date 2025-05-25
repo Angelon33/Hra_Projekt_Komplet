@@ -8,15 +8,19 @@
  lex:LocalizeDictionary.DesignCulture="en-US"
  lex:ResxLocalizationProvider.DefaultAssembly="ProjektWPF"
  lex:ResxLocalizationProvider.DefaultDictionary="Lokalizace"
+        xmlns:Flags="clr-namespace:FamFamFam.Flags.Wpf;assembly=FamFamFam.Flags.Wpf"
         mc:Ignorable="d"
         Title="Projekt" Height="450" Width="800" MinWidth="920" MinHeight="450"
        >
+
+
     <Window.Resources>
         <Flags:CountryIdToFlagImageSourceConverter x:Key="CountryIdToFlagImageSourceConverter" />
         <local:LangToCountryConverter x:Key="LangToCountryConverter" />
         <local:CombiningConverter x:Key="CombiningConverter" Converter1="{StaticResource LangToCountryConverter}" Converter2="{StaticResource CountryIdToFlagImageSourceConverter}" />
         <SolidColorBrush x:Key="MyBrush" Color="Red" />
     </Window.Resources>
+
     <Grid>
         <Grid.ColumnDefinitions>
             <ColumnDefinition/>
@@ -29,21 +33,34 @@
         <Label Content="{lex:Loc Key=NameOftheRoom}" HorizontalAlignment="Left" Margin="10,43,0,0" VerticalAlignment="Top"/>
 
         <Label Content="{lex:Loc Key=DescOftheRoom}" HorizontalAlignment="Left" Margin="10,74,0,0" VerticalAlignment="Top"/>
-
-
-        <Button Content="EN" HorizontalAlignment="Left" Margin="739,67,0,0" VerticalAlignment="Top" Click="Button_Click"/>
-        <Label Content="{lex:Loc Key=OkolniLokaceLang}" HorizontalAlignment="Left" Margin="30,122,0,0" VerticalAlignment="Top" Width="230"/>
+        <Label HorizontalAlignment="Left" Margin="30,122,0,0" VerticalAlignment="Top" Width="230"/>
         <ListView Name="OkolniMistnosti" ItemsSource="{Binding OkolniMistnost}"  Margin="30,153,670,90" SelectionChanged="OkolniMistnosti_SelectionChanged">
             <ListView.View>
                 <GridView AllowsColumnReorder="true" ColumnHeaderToolTip="Nazev" >
                     <GridViewColumn DisplayMemberBinding="{Binding Jmeno}" Header="{lex:Loc HeaderLang}"/>
-                    
+
                 </GridView>
             </ListView.View>
 
         </ListView>
-        <Button Content="CZ"  HorizontalAlignment="Left" Margin="739,107,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.304,-0.246" Click="Button_Click_3"/>
-        <ComboBox HorizontalAlignment="Left" Margin="739,10,0,0" VerticalAlignment="Top" Width="120"/>
+        <ListView Name="PredmetMistnost" ItemsSource="{Binding PredmetMistnosti}"  SelectionChanged="OkolniMistnosti_SelectionChanged" Margin="311,153,391,90">
+            <ListView.View>
+                <GridView AllowsColumnReorder="true" ColumnHeaderToolTip="Predmet" >
+                    <GridViewColumn DisplayMemberBinding="{Binding NazevPredmetu}" Header="{lex:Loc HeaderItems}"/>
+
+                </GridView>
+            </ListView.View>
+
+        </ListView>
+        <ListView Name="Inventář" ItemsSource="{Binding Inventar}" SelectionChanged="OkolniMistnosti_SelectionChanged" Margin="631,153,86,90">
+            <ListView.View>
+                <GridView AllowsColumnReorder="true" ColumnHeaderToolTip="Inventar" >
+                    <GridViewColumn DisplayMemberBinding="{Binding NazevPredmetu}" Header="{lex:Loc HeaderInventory}"/>
+
+                </GridView>
+            </ListView.View>
+
+        </ListView>
         <ComboBox x:Name="langSelection_comboBox" Margin="0,12,10,0"
                   ItemsSource="{Binding Source={x:Static lex:LocalizeDictionary.Instance}, Path=MergedAvailableCultures}"
                   SelectedItem="{Binding Source={x:Static lex:LocalizeDictionary.Instance}, Path=Culture}" 

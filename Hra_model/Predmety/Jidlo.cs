@@ -10,7 +10,7 @@ namespace Hra_model.Predmety
     {
 
 
-        public Jidlo(string NazevPredmetu, TypPredmetu Typ) : base(NazevPredmetu, Typ)
+        public Jidlo(string NazevPredmetu, string PopisPredmetu) : base(NazevPredmetu, PopisPredmetu)
         {
         }
 

@@ -10,13 +10,13 @@ namespace Hra_model
     public class Postava
     {
         
-        private List<Items> predmetPostavy; //lazyLoading vytvoří List okolni až když je třeba -------- Nevýhoda musí se provést podmínka
+        private List<Predmet> predmetPostavy; //lazyLoading vytvoří List okolni až když je třeba -------- Nevýhoda musí se provést podmínka
 
-        public List<Items> PredmetPostavy
+        public List<Predmet> PredmetPostavy
         {
             get
             {
-                if (predmetPostavy == null) predmetPostavy = new List<Items>(); //když je null tak ho vytvoř a vrať
+                if (predmetPostavy == null) predmetPostavy = new List<Predmet>(); //když je null tak ho vytvoř a vrať
                 return predmetPostavy;
             }
             set { predmetPostavy = value; }

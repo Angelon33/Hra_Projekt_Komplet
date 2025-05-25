@@ -51,19 +51,19 @@ namespace Hra_model
 
 
 
-        public List<Items> predmetMistnost; 
+        private List<Predmet> predmetMistnost; 
 
-        public List<Items> PredmetMistnost
+        public List<Predmet> PredmetMistnost
         {
             get
             {
-                if (predmetMistnost == null) predmetMistnost = new List<Items>(); //když je null tak ho vytvoř a vrať
+                if (predmetMistnost == null) predmetMistnost = new List<Predmet>(); //když je null tak ho vytvoř a vrať
                 return predmetMistnost;
             }
             set { predmetMistnost = value; }
         }
 
-        public List<NPC> npcMistnost; 
+        private List<NPC> npcMistnost; 
 
         public List<NPC> NpcMistnost
         {

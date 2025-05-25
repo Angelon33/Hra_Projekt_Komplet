@@ -132,4 +132,10 @@
   <data name="NameOftheRoom" xml:space="preserve">
     <value>Název místnosti: </value>
   </data>
+  <data name="HeaderInventory" xml:space="preserve">
+    <value>Inventář</value>
+  </data>
+  <data name="HeaderItems" xml:space="preserve">
+    <value>Předmety</value>
+  </data>
 </root>

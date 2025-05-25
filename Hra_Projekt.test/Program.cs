@@ -37,20 +37,20 @@ namespace Hra_Projekt.test
             vypisovac.VypisOdstavec("Stiskni libovolné tlačítko pro pokračování");
             Console.ReadKey();
         
-            /*
+            
            using (StreamWriter file = File.CreateText(Directory.GetCurrentDirectory() + "\\mistnosti.txt"))
                 {
                     JsonSerializer serializer = new JsonSerializer();
 
                     serializer.Formatting = Formatting.Indented;
                     serializer.PreserveReferencesHandling = PreserveReferencesHandling.Objects;
-
+                    serializer.ObjectCreationHandling = ObjectCreationHandling.Replace;
                     serializer.Serialize(file, hra.ListMistnosti);
 
 
                 }
               
-          */
+         
           
             /*
             string filecontent = File.ReadAllText(Directory.GetCurrentDirectory() + "\\mistnosti.txt");
@@ -192,9 +192,9 @@ namespace Hra_Projekt.test
 
             vypisovac.VypisOdstavec("Vidíš před sebou tyto věci: ");
             int i = 0;
-            foreach (Items p in aktualniMistnost.PredmetMistnost) //iteruje přes ten list
+            foreach (Predmet p in aktualniMistnost.PredmetMistnost) //iteruje přes ten list
             {
-                vypisovac.VypisOdstavec($"{i + 1}: {p.JmenoPredmetu}", ConsoleColor.Red);
+                vypisovac.VypisOdstavec($"{i + 1}: {p.NazevPredmetu}", ConsoleColor.Red);
                 i++;
 
             }
@@ -232,8 +232,8 @@ namespace Hra_Projekt.test
         }
         public static void SebratPredmet(int volbaPredmet, Postava postava, Mistnost aktualniMistnost)
         {
-            postava.PredmetPostavy.Add(aktualniMistnost.predmetMistnost[volbaPredmet - 1]);
-            aktualniMistnost.PredmetMistnost.Remove(aktualniMistnost.predmetMistnost[volbaPredmet - 1]);
+            postava.PredmetPostavy.Add(aktualniMistnost.PredmetMistnost[volbaPredmet - 1]);
+            aktualniMistnost.PredmetMistnost.Remove(aktualniMistnost.PredmetMistnost[volbaPredmet - 1]);
 
 
 
@@ -243,19 +243,19 @@ namespace Hra_Projekt.test
         {
             vypisovac.VypisOdstavec("V inventáři máš tyto věci: ");
             int i = 0;
-            foreach (Items p in postava.PredmetPostavy) //iteruje přes ten list
+            foreach (Predmet p in postava.PredmetPostavy) //iteruje přes ten list
             {
-                vypisovac.VypisOdstavec($"{i + 1}: {p.JmenoPredmetu}", ConsoleColor.White, ConsoleColor.DarkRed);
+                vypisovac.VypisOdstavec($"{i + 1}: {p.NazevPredmetu}", ConsoleColor.White, ConsoleColor.DarkRed);
                 i++;
 
             }
 
 
         }
-        public void PredmetPopis(Items predmety)
+        public void PredmetPopis(Predmet predmety)
         {
 
-            vypisovac.Vypis($" {predmety.JmenoPredmetu}, Popis: {predmety.PopisPredmetu}", ConsoleColor.Blue);
+            vypisovac.Vypis($" {predmety.NazevPredmetu}, Popis: {predmety.PopisPredmetu}", ConsoleColor.Blue);
 
         }
     }

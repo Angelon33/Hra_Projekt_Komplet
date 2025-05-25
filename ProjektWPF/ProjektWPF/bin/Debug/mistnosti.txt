@@ -1,0 +1,98 @@
+[
+  {
+    "$id": "1",
+    "predmetMistnost": null,
+    "npcMistnost": null,
+    "Jmeno": "Město",
+    "Popis": "Nacházíš se v menším městě Asgard. Vidíš že je plné lidí",
+    "Okolni": [
+      {
+        "$id": "2",
+        "predmetMistnost": null,
+        "npcMistnost": null,
+        "Jmeno": "Kovárna",
+        "Popis": "Stará kovárna",
+        "Okolni": [
+          {
+            "$ref": "1"
+          }
+        ],
+        "PredmetMistnost": [],
+        "NpcMistnost": []
+      },
+      {
+        "$id": "3",
+        "predmetMistnost": null,
+        "npcMistnost": null,
+        "Jmeno": "Nádvoří",
+        "Popis": "Velké nádvoří, kde se shlukuje mnoho lidí",
+        "Okolni": [
+          {
+            "$ref": "1"
+          }
+        ],
+        "PredmetMistnost": [],
+        "NpcMistnost": []
+      },
+      {
+        "$id": "4",
+        "predmetMistnost": null,
+        "npcMistnost": null,
+        "Jmeno": "Vstup do lesa",
+        "Popis": "Stojíš u vstupu do lesa.",
+        "Okolni": [
+          {
+            "$ref": "1"
+          },
+          {
+            "$id": "5",
+            "predmetMistnost": null,
+            "npcMistnost": null,
+            "Jmeno": "Louka uprostřed lesa",
+            "Popis": "Vidíš před sebou louku s vysokým porostem",
+            "Okolni": [
+              {
+                "$ref": "4"
+              },
+              {
+                "$id": "6",
+                "predmetMistnost": null,
+                "npcMistnost": null,
+                "Jmeno": "Studánka na louce",
+                "Popis": "Zchladil ses tekoucí vodou",
+                "Okolni": [
+                  {
+                    "$ref": "5"
+                  }
+                ],
+                "PredmetMistnost": [],
+                "NpcMistnost": []
+              }
+            ],
+            "PredmetMistnost": [],
+            "NpcMistnost": []
+          }
+        ],
+        "PredmetMistnost": [],
+        "NpcMistnost": []
+      }
+    ],
+    "PredmetMistnost": [],
+    "NpcMistnost": []
+  },
+  {
+    "$ref": "2"
+  },
+  {
+    "$ref": "3"
+  },
+  {
+    "$ref": "4"
+  },
+  {
+    "$ref": "5"
+  },
+  {
+    "$ref": "6"
+  }
+]

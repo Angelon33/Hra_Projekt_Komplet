@@ -53,6 +53,7 @@
     <Compile Include="Predmety\Jidlo.cs" />
     <Compile Include="Items.cs" />
     <Compile Include="Predmety\SpotrebniPredmet.cs" />
+    <Compile Include="Predmety\Vybaveni.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

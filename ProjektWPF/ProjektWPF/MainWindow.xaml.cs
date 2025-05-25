@@ -78,72 +78,63 @@ namespace ProjektWPF
             viewModel.LoadCollectionData();
         }
 
-
-       
-
-            
-private void Button_Click(object sender, RoutedEventArgs e)
+        private void LangSelection_comboBox_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
-            Settings.Default.Lang = "en-US";
-   
+            // Store language settings
+            ComboBox cb = sender as ComboBox;
+            Settings.Default.Lang = ((CultureInfo)cb.SelectedItem).Name;
             Properties.Settings.Default.Save();
-            
-        }
 
-        private void Button_Click_3(object sender, RoutedEventArgs e)
-        {
-            Settings.Default.Lang = "cs-CZ";
-            
-            Properties.Settings.Default.Save();
-            
+            // Manualy called property update for AnotherText
+            OnPropertyChanged("AnotherText");
         }
     }
-    public class LangToCountryConverter : IValueConverter
-    {
-        public object Convert(object value, Type targetType, object parameter, CultureInfo culture)
+        public class LangToCountryConverter : IValueConverter
         {
-            if (value != null)
+            public object Convert(object value, Type targetType, object parameter, CultureInfo culture)
             {
-                try
+                if (value != null)
                 {
-                    RegionInfo r = new RegionInfo((int)value);
-                    return r.TwoLetterISORegionName;
+                    try
+                    {
+                        RegionInfo r = new RegionInfo((int)value);
+                        return r.TwoLetterISORegionName;
+                    }
+                    catch
+                    {
+                        return ""; // Invariant, etc.
+                    }
                 }
-                catch
-                {
-                    return ""; // Invariant, etc.
-                }
+                else return ""; // Default
             }
-            else return ""; // Default
+
+            public object ConvertBack(object value, Type targetType, object parameter, CultureInfo culture)
+            {
+                throw new NotImplementedException();
+            }
         }
 
-        public object ConvertBack(object value, Type targetType, object parameter, CultureInfo culture)
+        // Converters pipelining
+        public class CombiningConverter : IValueConverter
         {
-            throw new NotImplementedException();
-        }
-    }
+            public IValueConverter Converter1 { get; set; }
+            public IValueConverter Converter2 { get; set; }
 
-    // Converters pipelining
-    public class CombiningConverter : IValueConverter
-    {
-        public IValueConverter Converter1 { get; set; }
-        public IValueConverter Converter2 { get; set; }
+            #region IValueConverter Members
 
-        #region IValueConverter Members
+            public object Convert(object value, Type targetType, object parameter, System.Globalization.CultureInfo culture)
+            {
+                object convertedValue = Converter1.Convert(value, targetType, parameter, culture);
+                return Converter2.Convert(convertedValue, targetType, parameter, culture);
+            }
 
-        public object Convert(object value, Type targetType, object parameter, System.Globalization.CultureInfo culture)
-        {
-            object convertedValue = Converter1.Convert(value, targetType, parameter, culture);
-            return Converter2.Convert(convertedValue, targetType, parameter, culture);
-        }
+            public object ConvertBack(object value, Type targetType, object parameter, System.Globalization.CultureInfo culture)
+            {
+                throw new NotImplementedException();
+            }
 
-        public object ConvertBack(object value, Type targetType, object parameter, System.Globalization.CultureInfo culture)
-        {
-            throw new NotImplementedException();
+            #endregion
         }
 
-        #endregion
-    }
-
-
+    
 }

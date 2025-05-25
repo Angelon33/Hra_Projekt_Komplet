@@ -70,6 +70,24 @@ namespace ProjektWPF {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Inventory.
+        /// </summary>
+        internal static string HeaderInventory {
+            get {
+                return ResourceManager.GetString("HeaderInventory", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Items.
+        /// </summary>
+        internal static string HeaderItems {
+            get {
+                return ResourceManager.GetString("HeaderItems", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Jméno lokace.
         /// </summary>
         internal static string HeaderLang {

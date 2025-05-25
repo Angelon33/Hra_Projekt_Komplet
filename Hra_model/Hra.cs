@@ -1,4 +1,5 @@
-﻿using Newtonsoft.Json;
+﻿using Hra_model.Predmety;
+using Newtonsoft.Json;
 using System;
 using System.Collections;
 using System.Collections.Generic;
@@ -43,7 +44,7 @@ namespace Hra_model
         public Hra() {
           
                         postava = new Postava();
-           
+          /* 
                         Mistnost x = new Mistnost("Město", "Nacházíš se v menším městě Asgard. Vidíš že je plné lidí");
                         Mistnost y = new Mistnost("Kovárna", "Stará kovárna");
                         Mistnost z = new Mistnost("Nádvoří", "Velké nádvoří, kde se shlukuje mnoho lidí");
@@ -54,7 +55,7 @@ namespace Hra_model
                        
 
 
-
+            
                         x.Okolni.Add(y);
                         y.Okolni.Add(x);
                         x.Okolni.Add(z);
@@ -65,11 +66,15 @@ namespace Hra_model
                         lesB.Okolni.Add(lesA);
                         lesB.Okolni.Add(lesC);
                         lesC.Okolni.Add(lesB);
-                   
-                        AktualniMistnost = x;
+                    Vybaveni mec = new Vybaveni("Nekvalitní meč", "Tento meč musel ukout učeň kováře.. je nekvalitní a nevyvážený");
+                    x.PredmetMistnost.Add(mec);
+                    postava.PredmetPostavy.Add(mec);
+
+            AktualniMistnost = x;
             listMistnosti = new List<Mistnost>() { x, y, z, lesA, lesB, lesC };
 
-           
+          
+            /*
             Items mec = new Items("Nekvalitní meč", "Tento meč musel ukout učeň kováře.. je nekvalitní a nevyvážený");
             Items kladivo = new Items("Kovářovo kladivo", ".....");
             NPC kovar = new NPC("Kovář", "Starý kovář, s ostrým pohledem");
@@ -78,7 +83,7 @@ namespace Hra_model
             y.NpcMistnost.Add(ucen);
             y.PredmetMistnost.Add(mec);
             y.PredmetMistnost.Add(kladivo);
-            
+            */
 
 
         }

@@ -8,12 +8,6 @@ namespace Hra_model
 {
     public abstract class Predmet
     {
-        public enum TypPredmetu
-        {
-            Spotrebni,
-            Vybaveni,
-            
-        }
         private int predmetMnozstvi;
 
         public int PredmetMnozstvi
@@ -22,11 +16,26 @@ namespace Hra_model
             set { predmetMnozstvi = value; }
         }
 
-        public TypPredmetu Typ { get; set; }
-
-
         public string NazevPredmetu { get; set; }
+        public string PopisPredmetu { get; set; }
 
-            
+        public Predmet (string nazevPredmetu, string popisPredmetu)
+        {
+            this.NazevPredmetu = nazevPredmetu;
+            this.PopisPredmetu = popisPredmetu;
+        }
+       
+
+
+
+
+
+
+
+
     }
-}
+
+
+
+
+    }

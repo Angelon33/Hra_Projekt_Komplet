@@ -3,60 +3,92 @@
   "WorkspaceRootPath": "C:\\Users\\Angelon1\\Documents\\GitHub\\Hra_Projekt_Komplet\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{415C9CD4-3FA4-4648-B962-EEECC6ADD100}|Hra_model\\Hra_model.csproj|C:\\Users\\Angelon1\\Documents\\GitHub\\Hra_Projekt_Komplet\\hra_model\\mistnost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{415C9CD4-3FA4-4648-B962-EEECC6ADD100}|Hra_model\\Hra_model.csproj|solutionrelative:hra_model\\mistnost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFA933F5-9941-4781-A9BD-F0B7E4F32959}|ProjektWPF\\ProjektWPF\\ProjektWPF.csproj|c:\\users\\angelon1\\documents\\github\\hra_projekt_komplet\\projektwpf\\projektwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFA933F5-9941-4781-A9BD-F0B7E4F32959}|ProjektWPF\\ProjektWPF\\ProjektWPF.csproj|solutionrelative:projektwpf\\projektwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DFA933F5-9941-4781-A9BD-F0B7E4F32959}|ProjektWPF\\ProjektWPF\\ProjektWPF.csproj|C:\\Users\\Angelon1\\Documents\\GitHub\\Hra_Projekt_Komplet\\projektwpf\\projektwpf\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DFA933F5-9941-4781-A9BD-F0B7E4F32959}|ProjektWPF\\ProjektWPF\\ProjektWPF.csproj|solutionrelative:projektwpf\\projektwpf\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFA933F5-9941-4781-A9BD-F0B7E4F32959}|ProjektWPF\\ProjektWPF\\ProjektWPF.csproj|C:\\Users\\Angelon1\\Documents\\GitHub\\Hra_Projekt_Komplet\\projektwpf\\projektwpf\\global.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFA933F5-9941-4781-A9BD-F0B7E4F32959}|ProjektWPF\\ProjektWPF\\ProjektWPF.csproj|solutionrelative:projektwpf\\projektwpf\\global.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFA933F5-9941-4781-A9BD-F0B7E4F32959}|ProjektWPF\\ProjektWPF\\ProjektWPF.csproj|C:\\Users\\Angelon1\\Documents\\GitHub\\Hra_Projekt_Komplet\\projektwpf\\projektwpf\\lokalizace.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
-      "RelativeMoniker": "D:0:0:{DFA933F5-9941-4781-A9BD-F0B7E4F32959}|ProjektWPF\\ProjektWPF\\ProjektWPF.csproj|solutionrelative:projektwpf\\projektwpf\\lokalizace.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFA933F5-9941-4781-A9BD-F0B7E4F32959}|ProjektWPF\\ProjektWPF\\ProjektWPF.csproj|C:\\Users\\Angelon1\\Documents\\GitHub\\Hra_Projekt_Komplet\\projektwpf\\projektwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{DFA933F5-9941-4781-A9BD-F0B7E4F32959}|ProjektWPF\\ProjektWPF\\ProjektWPF.csproj|solutionrelative:projektwpf\\projektwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFA933F5-9941-4781-A9BD-F0B7E4F32959}|ProjektWPF\\ProjektWPF\\ProjektWPF.csproj|C:\\Users\\Angelon1\\Documents\\GitHub\\Hra_Projekt_Komplet\\projektwpf\\projektwpf\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
-      "RelativeMoniker": "D:0:0:{DFA933F5-9941-4781-A9BD-F0B7E4F32959}|ProjektWPF\\ProjektWPF\\ProjektWPF.csproj|solutionrelative:projektwpf\\projektwpf\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{415C9CD4-3FA4-4648-B962-EEECC6ADD100}|Hra_model\\Hra_model.csproj|C:\\Users\\Angelon1\\Documents\\GitHub\\Hra_Projekt_Komplet\\hra_model\\hra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{415C9CD4-3FA4-4648-B962-EEECC6ADD100}|Hra_model\\Hra_model.csproj|solutionrelative:hra_model\\hra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{415C9CD4-3FA4-4648-B962-EEECC6ADD100}|Hra_model\\Hra_model.csproj|C:\\Users\\Angelon1\\Documents\\GitHub\\Hra_Projekt_Komplet\\hra_model\\hrac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{415C9CD4-3FA4-4648-B962-EEECC6ADD100}|Hra_model\\Hra_model.csproj|solutionrelative:hra_model\\hrac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{586B065F-6000-4EFB-B627-CE44C860F151}|Hra_Projekt.test\\Hra_Projekt.test.csproj|C:\\Users\\Angelon1\\Documents\\GitHub\\Hra_Projekt_Komplet\\hra_projekt.test\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{586B065F-6000-4EFB-B627-CE44C860F151}|Hra_Projekt.test\\Hra_Projekt.test.csproj|solutionrelative:hra_projekt.test\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFA933F5-9941-4781-A9BD-F0B7E4F32959}|ProjektWPF\\ProjektWPF\\ProjektWPF.csproj|C:\\Users\\Angelon1\\Documents\\GitHub\\Hra_Projekt_Komplet\\projektwpf\\projektwpf\\akceviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFA933F5-9941-4781-A9BD-F0B7E4F32959}|ProjektWPF\\ProjektWPF\\ProjektWPF.csproj|solutionrelative:projektwpf\\projektwpf\\akceviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFA933F5-9941-4781-A9BD-F0B7E4F32959}|ProjektWPF\\ProjektWPF\\ProjektWPF.csproj|C:\\Users\\Angelon1\\Documents\\GitHub\\Hra_Projekt_Komplet\\projektwpf\\projektwpf\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
-      "RelativeMoniker": "D:0:0:{DFA933F5-9941-4781-A9BD-F0B7E4F32959}|ProjektWPF\\ProjektWPF\\ProjektWPF.csproj|solutionrelative:projektwpf\\projektwpf\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{586B065F-6000-4EFB-B627-CE44C860F151}|Hra_Projekt.test\\Hra_Projekt.test.csproj|C:\\Users\\Angelon1\\Documents\\GitHub\\Hra_Projekt_Komplet\\hra_projekt.test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{586B065F-6000-4EFB-B627-CE44C860F151}|Hra_Projekt.test\\Hra_Projekt.test.csproj|solutionrelative:hra_projekt.test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{415C9CD4-3FA4-4648-B962-EEECC6ADD100}|Hra_model\\Hra_model.csproj|C:\\Users\\Angelon1\\Documents\\GitHub\\Hra_Projekt_Komplet\\hra_model\\hra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{415C9CD4-3FA4-4648-B962-EEECC6ADD100}|Hra_model\\Hra_model.csproj|solutionrelative:hra_model\\hra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA933F5-9941-4781-A9BD-F0B7E4F32959}|ProjektWPF\\ProjektWPF\\ProjektWPF.csproj|C:\\Users\\Angelon1\\Documents\\GitHub\\Hra_Projekt_Komplet\\projektwpf\\projektwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DFA933F5-9941-4781-A9BD-F0B7E4F32959}|ProjektWPF\\ProjektWPF\\ProjektWPF.csproj|solutionrelative:projektwpf\\projektwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA933F5-9941-4781-A9BD-F0B7E4F32959}|ProjektWPF\\ProjektWPF\\ProjektWPF.csproj|C:\\Users\\Angelon1\\Documents\\GitHub\\Hra_Projekt_Komplet\\projektwpf\\projektwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA933F5-9941-4781-A9BD-F0B7E4F32959}|ProjektWPF\\ProjektWPF\\ProjektWPF.csproj|solutionrelative:projektwpf\\projektwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{415C9CD4-3FA4-4648-B962-EEECC6ADD100}|Hra_model\\Hra_model.csproj|c:\\users\\angelon1\\documents\\github\\hra_projekt_komplet\\hra_model\\mistnost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{415C9CD4-3FA4-4648-B962-EEECC6ADD100}|Hra_model\\Hra_model.csproj|solutionrelative:hra_model\\mistnost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{415C9CD4-3FA4-4648-B962-EEECC6ADD100}|Hra_model\\Hra_model.csproj|c:\\users\\angelon1\\documents\\github\\hra_projekt_komplet\\hra_model\\npc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{415C9CD4-3FA4-4648-B962-EEECC6ADD100}|Hra_model\\Hra_model.csproj|solutionrelative:hra_model\\npc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{415C9CD4-3FA4-4648-B962-EEECC6ADD100}|Hra_model\\Hra_model.csproj|c:\\users\\angelon1\\documents\\github\\hra_projekt_komplet\\hra_model\\postava.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{415C9CD4-3FA4-4648-B962-EEECC6ADD100}|Hra_model\\Hra_model.csproj|solutionrelative:hra_model\\postava.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{415C9CD4-3FA4-4648-B962-EEECC6ADD100}|Hra_model\\Hra_model.csproj|c:\\users\\angelon1\\documents\\github\\hra_projekt_komplet\\hra_model\\predmety\\jidlo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{415C9CD4-3FA4-4648-B962-EEECC6ADD100}|Hra_model\\Hra_model.csproj|solutionrelative:hra_model\\predmety\\jidlo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{415C9CD4-3FA4-4648-B962-EEECC6ADD100}|Hra_model\\Hra_model.csproj|c:\\users\\angelon1\\documents\\github\\hra_projekt_komplet\\hra_model\\predmety\\predmet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{415C9CD4-3FA4-4648-B962-EEECC6ADD100}|Hra_model\\Hra_model.csproj|solutionrelative:hra_model\\predmety\\predmet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{415C9CD4-3FA4-4648-B962-EEECC6ADD100}|Hra_model\\Hra_model.csproj|c:\\users\\angelon1\\documents\\github\\hra_projekt_komplet\\hra_model\\predmety\\spotrebnipredmet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{415C9CD4-3FA4-4648-B962-EEECC6ADD100}|Hra_model\\Hra_model.csproj|solutionrelative:hra_model\\predmety\\spotrebnipredmet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{415C9CD4-3FA4-4648-B962-EEECC6ADD100}|Hra_model\\Hra_model.csproj|c:\\users\\angelon1\\documents\\github\\hra_projekt_komplet\\hra_model\\predmety\\vybaveni.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{415C9CD4-3FA4-4648-B962-EEECC6ADD100}|Hra_model\\Hra_model.csproj|solutionrelative:hra_model\\predmety\\vybaveni.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{415C9CD4-3FA4-4648-B962-EEECC6ADD100}|Hra_model\\Hra_model.csproj|c:\\users\\angelon1\\documents\\github\\hra_projekt_komplet\\hra_model\\items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{415C9CD4-3FA4-4648-B962-EEECC6ADD100}|Hra_model\\Hra_model.csproj|solutionrelative:hra_model\\items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{415C9CD4-3FA4-4648-B962-EEECC6ADD100}|Hra_model\\Hra_model.csproj|C:\\Users\\Angelon1\\Documents\\GitHub\\Hra_Projekt_Komplet\\hra_model\\hrac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{415C9CD4-3FA4-4648-B962-EEECC6ADD100}|Hra_model\\Hra_model.csproj|solutionrelative:hra_model\\hrac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA933F5-9941-4781-A9BD-F0B7E4F32959}|ProjektWPF\\ProjektWPF\\ProjektWPF.csproj|c:\\users\\angelon1\\documents\\github\\hra_projekt_komplet\\projektwpf\\projektwpf\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA933F5-9941-4781-A9BD-F0B7E4F32959}|ProjektWPF\\ProjektWPF\\ProjektWPF.csproj|solutionrelative:projektwpf\\projektwpf\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA933F5-9941-4781-A9BD-F0B7E4F32959}|ProjektWPF\\ProjektWPF\\ProjektWPF.csproj|C:\\Users\\Angelon1\\Documents\\GitHub\\Hra_Projekt_Komplet\\projektwpf\\projektwpf\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{DFA933F5-9941-4781-A9BD-F0B7E4F32959}|ProjektWPF\\ProjektWPF\\ProjektWPF.csproj|solutionrelative:projektwpf\\projektwpf\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA933F5-9941-4781-A9BD-F0B7E4F32959}|ProjektWPF\\ProjektWPF\\ProjektWPF.csproj|C:\\Users\\Angelon1\\Documents\\GitHub\\Hra_Projekt_Komplet\\projektwpf\\projektwpf\\lokalizace.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{DFA933F5-9941-4781-A9BD-F0B7E4F32959}|ProjektWPF\\ProjektWPF\\ProjektWPF.csproj|solutionrelative:projektwpf\\projektwpf\\lokalizace.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA933F5-9941-4781-A9BD-F0B7E4F32959}|ProjektWPF\\ProjektWPF\\ProjektWPF.csproj|C:\\Users\\Angelon1\\Documents\\GitHub\\Hra_Projekt_Komplet\\projektwpf\\projektwpf\\akceviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA933F5-9941-4781-A9BD-F0B7E4F32959}|ProjektWPF\\ProjektWPF\\ProjektWPF.csproj|solutionrelative:projektwpf\\projektwpf\\akceviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DFA933F5-9941-4781-A9BD-F0B7E4F32959}|ProjektWPF\\ProjektWPF\\ProjektWPF.csproj|C:\\Users\\Angelon1\\Documents\\GitHub\\Hra_Projekt_Komplet\\projektwpf\\projektwpf\\zmenlokaci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DFA933F5-9941-4781-A9BD-F0B7E4F32959}|ProjektWPF\\ProjektWPF\\ProjektWPF.csproj|solutionrelative:projektwpf\\projektwpf\\zmenlokaci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA933F5-9941-4781-A9BD-F0B7E4F32959}|ProjektWPF\\ProjektWPF\\ProjektWPF.csproj|C:\\Users\\Angelon1\\Documents\\GitHub\\Hra_Projekt_Komplet\\projektwpf\\projektwpf\\global.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA933F5-9941-4781-A9BD-F0B7E4F32959}|ProjektWPF\\ProjektWPF\\ProjektWPF.csproj|solutionrelative:projektwpf\\projektwpf\\global.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{586B065F-6000-4EFB-B627-CE44C860F151}|Hra_Projekt.test\\Hra_Projekt.test.csproj|C:\\Users\\Angelon1\\Documents\\GitHub\\Hra_Projekt_Komplet\\hra_projekt.test\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{586B065F-6000-4EFB-B627-CE44C860F151}|Hra_Projekt.test\\Hra_Projekt.test.csproj|solutionrelative:hra_projekt.test\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA933F5-9941-4781-A9BD-F0B7E4F32959}|ProjektWPF\\ProjektWPF\\ProjektWPF.csproj|C:\\Users\\Angelon1\\Documents\\GitHub\\Hra_Projekt_Komplet\\projektwpf\\projektwpf\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{DFA933F5-9941-4781-A9BD-F0B7E4F32959}|ProjektWPF\\ProjektWPF\\ProjektWPF.csproj|solutionrelative:projektwpf\\projektwpf\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,17 +98,82 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindowViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Angelon1\\Documents\\GitHub\\Hra_Projekt_Komplet\\ProjektWPF\\ProjektWPF\\MainWindowViewModel.cs",
+              "RelativeDocumentMoniker": "ProjektWPF\\ProjektWPF\\MainWindowViewModel.cs",
+              "ToolTip": "C:\\Users\\Angelon1\\Documents\\GitHub\\Hra_Projekt_Komplet\\ProjektWPF\\ProjektWPF\\MainWindowViewModel.cs",
+              "RelativeToolTip": "ProjektWPF\\ProjektWPF\\MainWindowViewModel.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAA0wEUAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T19:24:42.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Angelon1\\Documents\\GitHub\\Hra_Projekt_Komplet\\Hra_Projekt.test\\Program.cs",
+              "RelativeDocumentMoniker": "Hra_Projekt.test\\Program.cs",
+              "ToolTip": "C:\\Users\\Angelon1\\Documents\\GitHub\\Hra_Projekt_Komplet\\Hra_Projekt.test\\Program.cs",
+              "RelativeToolTip": "Hra_Projekt.test\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwDIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T19:27:28.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Items.cs",
+              "DocumentMoniker": "C:\\Users\\Angelon1\\Documents\\GitHub\\Hra_Projekt_Komplet\\Hra_model\\Items.cs",
+              "RelativeDocumentMoniker": "Hra_model\\Items.cs",
+              "ToolTip": "C:\\Users\\Angelon1\\Documents\\GitHub\\Hra_Projekt_Komplet\\Hra_model\\Items.cs",
+              "RelativeToolTip": "Hra_model\\Items.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T19:31:22.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Predmet.cs",
+              "DocumentMoniker": "C:\\Users\\Angelon1\\Documents\\GitHub\\Hra_Projekt_Komplet\\Hra_model\\Predmety\\Predmet.cs",
+              "RelativeDocumentMoniker": "Hra_model\\Predmety\\Predmet.cs",
+              "ToolTip": "C:\\Users\\Angelon1\\Documents\\GitHub\\Hra_Projekt_Komplet\\Hra_model\\Predmety\\Predmet.cs",
+              "RelativeToolTip": "Hra_model\\Predmety\\Predmet.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T19:23:44.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Jidlo.cs",
+              "DocumentMoniker": "C:\\Users\\Angelon1\\Documents\\GitHub\\Hra_Projekt_Komplet\\Hra_model\\Predmety\\Jidlo.cs",
+              "RelativeDocumentMoniker": "Hra_model\\Predmety\\Jidlo.cs",
+              "ToolTip": "C:\\Users\\Angelon1\\Documents\\GitHub\\Hra_Projekt_Komplet\\Hra_model\\Predmety\\Jidlo.cs",
+              "RelativeToolTip": "Hra_model\\Predmety\\Jidlo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T19:23:44.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Angelon1\\Documents\\GitHub\\Hra_Projekt_Komplet\\ProjektWPF\\ProjektWPF\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "ProjektWPF\\ProjektWPF\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\Angelon1\\Documents\\GitHub\\Hra_Projekt_Komplet\\ProjektWPF\\ProjektWPF\\MainWindow.xaml.cs",
               "RelativeToolTip": "ProjektWPF\\ProjektWPF\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAowFQAAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAwE8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-04T19:44:50.331Z",
               "EditorCaption": ""
@@ -84,28 +181,172 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "Mistnost.cs",
+              "DocumentMoniker": "C:\\Users\\Angelon1\\Documents\\GitHub\\Hra_Projekt_Komplet\\Hra_model\\Mistnost.cs",
+              "RelativeDocumentMoniker": "Hra_model\\Mistnost.cs",
+              "ToolTip": "C:\\Users\\Angelon1\\Documents\\GitHub\\Hra_Projekt_Komplet\\Hra_model\\Mistnost.cs",
+              "RelativeToolTip": "Hra_model\\Mistnost.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAUwDcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T19:24:46.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Postava.cs",
+              "DocumentMoniker": "C:\\Users\\Angelon1\\Documents\\GitHub\\Hra_Projekt_Komplet\\Hra_model\\Postava.cs",
+              "RelativeDocumentMoniker": "Hra_model\\Postava.cs",
+              "ToolTip": "C:\\Users\\Angelon1\\Documents\\GitHub\\Hra_Projekt_Komplet\\Hra_model\\Postava.cs",
+              "RelativeToolTip": "Hra_model\\Postava.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T19:54:38.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NPC.cs",
+              "DocumentMoniker": "C:\\Users\\Angelon1\\Documents\\GitHub\\Hra_Projekt_Komplet\\Hra_model\\NPC.cs",
+              "RelativeDocumentMoniker": "Hra_model\\NPC.cs",
+              "ToolTip": "C:\\Users\\Angelon1\\Documents\\GitHub\\Hra_Projekt_Komplet\\Hra_model\\NPC.cs",
+              "RelativeToolTip": "Hra_model\\NPC.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T19:57:00.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Hra.cs",
+              "DocumentMoniker": "C:\\Users\\Angelon1\\Documents\\GitHub\\Hra_Projekt_Komplet\\Hra_model\\Hra.cs",
+              "RelativeDocumentMoniker": "Hra_model\\Hra.cs",
+              "ToolTip": "C:\\Users\\Angelon1\\Documents\\GitHub\\Hra_Projekt_Komplet\\Hra_model\\Hra.cs",
+              "RelativeToolTip": "Hra_model\\Hra.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwD8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T19:27:59.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Hrac.cs",
+              "DocumentMoniker": "C:\\Users\\Angelon1\\Documents\\GitHub\\Hra_Projekt_Komplet\\Hra_model\\Hrac.cs",
+              "RelativeDocumentMoniker": "Hra_model\\Hrac.cs",
+              "ToolTip": "C:\\Users\\Angelon1\\Documents\\GitHub\\Hra_Projekt_Komplet\\Hra_model\\Hrac.cs",
+              "RelativeToolTip": "Hra_model\\Hrac.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T19:24:52.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\Angelon1\\Documents\\GitHub\\Hra_Projekt_Komplet\\ProjektWPF\\ProjektWPF\\MainWindow.xaml",
               "RelativeDocumentMoniker": "ProjektWPF\\ProjektWPF\\MainWindow.xaml",
               "ToolTip": "C:\\Users\\Angelon1\\Documents\\GitHub\\Hra_Projekt_Komplet\\ProjektWPF\\ProjektWPF\\MainWindow.xaml",
               "RelativeToolTip": "ProjektWPF\\ProjektWPF\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-05-04T19:44:51.67Z"
+              "WhenOpened": "2025-05-04T19:44:51.67Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
+              "Title": "Vybaveni.cs",
+              "DocumentMoniker": "C:\\Users\\Angelon1\\Documents\\GitHub\\Hra_Projekt_Komplet\\Hra_model\\Predmety\\Vybaveni.cs",
+              "RelativeDocumentMoniker": "Hra_model\\Predmety\\Vybaveni.cs",
+              "ToolTip": "C:\\Users\\Angelon1\\Documents\\GitHub\\Hra_Projekt_Komplet\\Hra_model\\Predmety\\Vybaveni.cs",
+              "RelativeToolTip": "Hra_model\\Predmety\\Vybaveni.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T19:39:57.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SpotrebniPredmet.cs",
+              "DocumentMoniker": "C:\\Users\\Angelon1\\Documents\\GitHub\\Hra_Projekt_Komplet\\Hra_model\\Predmety\\SpotrebniPredmet.cs",
+              "RelativeDocumentMoniker": "Hra_model\\Predmety\\SpotrebniPredmet.cs",
+              "ToolTip": "C:\\Users\\Angelon1\\Documents\\GitHub\\Hra_Projekt_Komplet\\Hra_model\\Predmety\\SpotrebniPredmet.cs",
+              "RelativeToolTip": "Hra_model\\Predmety\\SpotrebniPredmet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T19:23:43.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Angelon1\\Documents\\GitHub\\Hra_Projekt_Komplet\\ProjektWPF\\ProjektWPF\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "ProjektWPF\\ProjektWPF\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\Angelon1\\Documents\\GitHub\\Hra_Projekt_Komplet\\ProjektWPF\\ProjektWPF\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "ProjektWPF\\ProjektWPF\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T20:29:17.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AkceViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Angelon1\\Documents\\GitHub\\Hra_Projekt_Komplet\\ProjektWPF\\ProjektWPF\\AkceViewModel.cs",
+              "RelativeDocumentMoniker": "ProjektWPF\\ProjektWPF\\AkceViewModel.cs",
+              "ToolTip": "C:\\Users\\Angelon1\\Documents\\GitHub\\Hra_Projekt_Komplet\\ProjektWPF\\ProjektWPF\\AkceViewModel.cs",
+              "RelativeToolTip": "ProjektWPF\\ProjektWPF\\AkceViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T20:35:44.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Lokalizace.resx",
+              "DocumentMoniker": "C:\\Users\\Angelon1\\Documents\\GitHub\\Hra_Projekt_Komplet\\ProjektWPF\\ProjektWPF\\Lokalizace.resx",
+              "RelativeDocumentMoniker": "ProjektWPF\\ProjektWPF\\Lokalizace.resx",
+              "ToolTip": "C:\\Users\\Angelon1\\Documents\\GitHub\\Hra_Projekt_Komplet\\ProjektWPF\\ProjektWPF\\Lokalizace.resx",
+              "RelativeToolTip": "ProjektWPF\\ProjektWPF\\Lokalizace.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-05-04T20:36:02.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "Settings.settings",
               "DocumentMoniker": "C:\\Users\\Angelon1\\Documents\\GitHub\\Hra_Projekt_Komplet\\ProjektWPF\\ProjektWPF\\Properties\\Settings.settings",
               "RelativeDocumentMoniker": "ProjektWPF\\ProjektWPF\\Properties\\Settings.settings",
               "ToolTip": "C:\\Users\\Angelon1\\Documents\\GitHub\\Hra_Projekt_Komplet\\ProjektWPF\\ProjektWPF\\Properties\\Settings.settings",
               "RelativeToolTip": "ProjektWPF\\ProjektWPF\\Properties\\Settings.settings",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
-              "WhenOpened": "2025-05-04T20:19:25.951Z"
+              "WhenOpened": "2025-05-04T20:19:25.951Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 18,
+              "Title": "ZmenLokaci.cs",
+              "DocumentMoniker": "C:\\Users\\Angelon1\\Documents\\GitHub\\Hra_Projekt_Komplet\\ProjektWPF\\ProjektWPF\\ZmenLokaci.cs",
+              "RelativeDocumentMoniker": "ProjektWPF\\ProjektWPF\\ZmenLokaci.cs",
+              "ToolTip": "C:\\Users\\Angelon1\\Documents\\GitHub\\Hra_Projekt_Komplet\\ProjektWPF\\ProjektWPF\\ZmenLokaci.cs",
+              "RelativeToolTip": "ProjektWPF\\ProjektWPF\\ZmenLokaci.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T19:24:41.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "Global.cs",
               "DocumentMoniker": "C:\\Users\\Angelon1\\Documents\\GitHub\\Hra_Projekt_Komplet\\ProjektWPF\\ProjektWPF\\Global.cs",
               "RelativeDocumentMoniker": "ProjektWPF\\ProjektWPF\\Global.cs",
@@ -117,67 +358,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Lokalizace.resx",
-              "DocumentMoniker": "C:\\Users\\Angelon1\\Documents\\GitHub\\Hra_Projekt_Komplet\\ProjektWPF\\ProjektWPF\\Lokalizace.resx",
-              "RelativeDocumentMoniker": "ProjektWPF\\ProjektWPF\\Lokalizace.resx",
-              "ToolTip": "C:\\Users\\Angelon1\\Documents\\GitHub\\Hra_Projekt_Komplet\\ProjektWPF\\ProjektWPF\\Lokalizace.resx",
-              "RelativeToolTip": "ProjektWPF\\ProjektWPF\\Lokalizace.resx",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-05-04T20:36:02.986Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MainWindowViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Angelon1\\Documents\\GitHub\\Hra_Projekt_Komplet\\ProjektWPF\\ProjektWPF\\MainWindowViewModel.cs",
-              "RelativeDocumentMoniker": "ProjektWPF\\ProjektWPF\\MainWindowViewModel.cs",
-              "ToolTip": "C:\\Users\\Angelon1\\Documents\\GitHub\\Hra_Projekt_Komplet\\ProjektWPF\\ProjektWPF\\MainWindowViewModel.cs",
-              "RelativeToolTip": "ProjektWPF\\ProjektWPF\\MainWindowViewModel.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAowDgAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T19:24:42.681Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Hra.cs",
-              "DocumentMoniker": "C:\\Users\\Angelon1\\Documents\\GitHub\\Hra_Projekt_Komplet\\Hra_model\\Hra.cs",
-              "RelativeDocumentMoniker": "Hra_model\\Hra.cs",
-              "ToolTip": "C:\\Users\\Angelon1\\Documents\\GitHub\\Hra_Projekt_Komplet\\Hra_model\\Hra.cs",
-              "RelativeToolTip": "Hra_model\\Hra.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAawB8AAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T19:27:59.198Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Mistnost.cs",
-              "DocumentMoniker": "C:\\Users\\Angelon1\\Documents\\GitHub\\Hra_Projekt_Komplet\\Hra_model\\Mistnost.cs",
-              "RelativeDocumentMoniker": "Hra_model\\Mistnost.cs",
-              "ToolTip": "C:\\Users\\Angelon1\\Documents\\GitHub\\Hra_Projekt_Komplet\\Hra_model\\Mistnost.cs",
-              "RelativeToolTip": "Hra_model\\Mistnost.cs",
-              "ViewState": "AgIAAEAAAAAAAAAAAAAcwAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T19:24:46.934Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Hrac.cs",
-              "DocumentMoniker": "C:\\Users\\Angelon1\\Documents\\GitHub\\Hra_Projekt_Komplet\\Hra_model\\Hrac.cs",
-              "RelativeDocumentMoniker": "Hra_model\\Hrac.cs",
-              "ToolTip": "C:\\Users\\Angelon1\\Documents\\GitHub\\Hra_Projekt_Komplet\\Hra_model\\Hrac.cs",
-              "RelativeToolTip": "Hra_model\\Hrac.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T19:24:52.078Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 20,
               "Title": "App.config",
               "DocumentMoniker": "C:\\Users\\Angelon1\\Documents\\GitHub\\Hra_Projekt_Komplet\\Hra_Projekt.test\\App.config",
               "RelativeDocumentMoniker": "Hra_Projekt.test\\App.config",
@@ -189,50 +370,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "AkceViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Angelon1\\Documents\\GitHub\\Hra_Projekt_Komplet\\ProjektWPF\\ProjektWPF\\AkceViewModel.cs",
-              "RelativeDocumentMoniker": "ProjektWPF\\ProjektWPF\\AkceViewModel.cs",
-              "ToolTip": "C:\\Users\\Angelon1\\Documents\\GitHub\\Hra_Projekt_Komplet\\ProjektWPF\\ProjektWPF\\AkceViewModel.cs",
-              "RelativeToolTip": "ProjektWPF\\ProjektWPF\\AkceViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T20:35:44.202Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 21,
               "Title": "Resources.resx",
               "DocumentMoniker": "C:\\Users\\Angelon1\\Documents\\GitHub\\Hra_Projekt_Komplet\\ProjektWPF\\ProjektWPF\\Properties\\Resources.resx",
               "RelativeDocumentMoniker": "ProjektWPF\\ProjektWPF\\Properties\\Resources.resx",
               "ToolTip": "C:\\Users\\Angelon1\\Documents\\GitHub\\Hra_Projekt_Komplet\\ProjektWPF\\ProjektWPF\\Properties\\Resources.resx",
               "RelativeToolTip": "ProjektWPF\\ProjektWPF\\Properties\\Resources.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-05-04T20:20:10.903Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Angelon1\\Documents\\GitHub\\Hra_Projekt_Komplet\\Hra_Projekt.test\\Program.cs",
-              "RelativeDocumentMoniker": "Hra_Projekt.test\\Program.cs",
-              "ToolTip": "C:\\Users\\Angelon1\\Documents\\GitHub\\Hra_Projekt_Komplet\\Hra_Projekt.test\\Program.cs",
-              "RelativeToolTip": "Hra_Projekt.test\\Program.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwDQAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T19:27:28.074Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ZmenLokaci.cs",
-              "DocumentMoniker": "C:\\Users\\Angelon1\\Documents\\GitHub\\Hra_Projekt_Komplet\\ProjektWPF\\ProjektWPF\\ZmenLokaci.cs",
-              "RelativeDocumentMoniker": "ProjektWPF\\ProjektWPF\\ZmenLokaci.cs",
-              "ToolTip": "C:\\Users\\Angelon1\\Documents\\GitHub\\Hra_Projekt_Komplet\\ProjektWPF\\ProjektWPF\\ZmenLokaci.cs",
-              "RelativeToolTip": "ProjektWPF\\ProjektWPF\\ZmenLokaci.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T19:24:41.849Z"
+              "WhenOpened": "2025-05-04T20:20:10.903Z",
+              "EditorCaption": ""
             }
           ]
         }

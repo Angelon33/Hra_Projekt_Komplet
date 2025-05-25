@@ -132,4 +132,10 @@
   <data name="DescOftheRoom" xml:space="preserve">
     <value>Desc Of the Room: </value>
   </data>
+  <data name="HeaderInventory" xml:space="preserve">
+    <value>Inventory</value>
+  </data>
+  <data name="HeaderItems" xml:space="preserve">
+    <value>Items</value>
+  </data>
 </root>
