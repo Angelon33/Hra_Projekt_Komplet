@@ -11,7 +11,12 @@
         mc:Ignorable="d"
         Title="Projekt" Height="450" Width="800" MinWidth="920" MinHeight="450"
        >
-        
+    <Window.Resources>
+        <Flags:CountryIdToFlagImageSourceConverter x:Key="CountryIdToFlagImageSourceConverter" />
+        <local:LangToCountryConverter x:Key="LangToCountryConverter" />
+        <local:CombiningConverter x:Key="CombiningConverter" Converter1="{StaticResource LangToCountryConverter}" Converter2="{StaticResource CountryIdToFlagImageSourceConverter}" />
+        <SolidColorBrush x:Key="MyBrush" Color="Red" />
+    </Window.Resources>
     <Grid>
         <Grid.ColumnDefinitions>
             <ColumnDefinition/>
@@ -38,8 +43,25 @@
 
         </ListView>
         <Button Content="CZ"  HorizontalAlignment="Left" Margin="739,107,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.304,-0.246" Click="Button_Click_3"/>
-
-
+        <ComboBox HorizontalAlignment="Left" Margin="739,10,0,0" VerticalAlignment="Top" Width="120"/>
+        <ComboBox x:Name="langSelection_comboBox" Margin="0,12,10,0"
+                  ItemsSource="{Binding Source={x:Static lex:LocalizeDictionary.Instance}, Path=MergedAvailableCultures}"
+                  SelectedItem="{Binding Source={x:Static lex:LocalizeDictionary.Instance}, Path=Culture}" 
+                  SelectionChanged="LangSelection_comboBox_SelectionChanged" HorizontalAlignment="Right" Width="283" Height="25" VerticalAlignment="Top">
+            <ComboBox.ItemTemplate>
+                <DataTemplate DataType="flags:CountryData">
+                    <StackPanel Orientation="Horizontal">
+                        <Image Source="{Binding Path=LCID, Mode=OneWay, Converter={StaticResource CombiningConverter}}" RenderOptions.BitmapScalingMode="HighQuality" />
+                        <TextBlock Margin="5,0,0,0" VerticalAlignment="Center" >
+                            <Run Text="(" />
+                            <Run Text="{Binding Path=LCID, Mode=OneWay, Converter={StaticResource LangToCountryConverter}}" />
+                            <Run Text=") " />
+                        </TextBlock>
+                        <TextBlock Text="{Binding Path=NativeName}" Margin="5,0,0,0" VerticalAlignment="Center" />
+                    </StackPanel>
+                </DataTemplate>
+            </ComboBox.ItemTemplate>
+        </ComboBox>
 
     </Grid>
 

@@ -134,3 +134,11 @@ C:\Users\Angelon1\Documents\GitHub\Hra_Projekt_Komplet\ProjektWPF\ProjektWPF\obj
 C:\Users\Angelon1\Documents\GitHub\Hra_Projekt_Komplet\ProjektWPF\ProjektWPF\bin\Debug\en-DE\ProjektWPF.resources.dll
 C:\Users\Angelon1\Documents\GitHub\Hra_Projekt_Komplet\ProjektWPF\ProjektWPF\obj\Debug\ProjektWPF.Lokalizace.en-DE.resources
 C:\Users\Angelon1\Documents\GitHub\Hra_Projekt_Komplet\ProjektWPF\ProjektWPF\obj\Debug\en-DE\ProjektWPF.resources.dll
+C:\Users\Angelon1\Desktop\Hra_Projekt\Hra_Projekt_Komplet_Oficiální\ProjektWPF\ProjektWPF\obj\Debug\ProjektWPF.csproj.AssemblyReference.cache
+C:\Users\Angelon1\Desktop\Hra_Projekt\Hra_Projekt_Komplet_Oficiální\ProjektWPF\ProjektWPF\obj\Debug\ProjektWPF.csproj.SuggestedBindingRedirects.cache
+C:\Users\Angelon1\Desktop\Hra_Projekt\Hra_Projekt_Komplet_Oficiální\ProjektWPF\ProjektWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Angelon1\Desktop\Hra_Projekt\Hra_Projekt_Komplet_Oficiální\ProjektWPF\ProjektWPF\obj\Debug\App.g.cs
+C:\Users\Angelon1\Desktop\Hra_Projekt\Hra_Projekt_Komplet_Oficiální\ProjektWPF\ProjektWPF\obj\Debug\ProjektWPF_MarkupCompile.cache
+C:\Users\Angelon1\Desktop\Hra_Projekt\Hra_Projekt_Komplet_Oficiální\ProjektWPF\ProjektWPF\obj\Debug\ProjektWPF_MarkupCompile.lref
+C:\Users\Angelon1\Desktop\Hra_Projekt\Hra_Projekt_Komplet_Oficiální\ProjektWPF\ProjektWPF\obj\Debug\ProjektWPF.exe
+C:\Users\Angelon1\Desktop\Hra_Projekt\Hra_Projekt_Komplet_Oficiální\ProjektWPF\ProjektWPF\obj\Debug\ProjektWPF.pdb

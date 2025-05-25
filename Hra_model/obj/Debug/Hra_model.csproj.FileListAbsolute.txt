@@ -28,3 +28,12 @@ C:\Users\Angelon1\Desktop\Hra_Projekt_Komplet-main\Hra_model\obj\Debug\Hra_model
 C:\Users\Angelon1\Documents\GitHub\Hra_Projekt_Komplet\Hra_model\bin\Debug\Newtonsoft.Json.dll
 C:\Users\Angelon1\Documents\GitHub\Hra_Projekt_Komplet\Hra_model\bin\Debug\Newtonsoft.Json.xml
 C:\Users\Angelon1\Documents\GitHub\Hra_Projekt_Komplet\Hra_model\obj\Debug\Hra_model.csproj.Up2Date
+C:\Users\Angelon1\Desktop\Hra_Projekt\Hra_Projekt_Komplet_Oficiální\Hra_model\bin\Debug\Hra_model.dll
+C:\Users\Angelon1\Desktop\Hra_Projekt\Hra_Projekt_Komplet_Oficiální\Hra_model\bin\Debug\Hra_model.pdb
+C:\Users\Angelon1\Desktop\Hra_Projekt\Hra_Projekt_Komplet_Oficiální\Hra_model\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Angelon1\Desktop\Hra_Projekt\Hra_Projekt_Komplet_Oficiální\Hra_model\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Angelon1\Desktop\Hra_Projekt\Hra_Projekt_Komplet_Oficiální\Hra_model\obj\Debug\Hra_model.csproj.AssemblyReference.cache
+C:\Users\Angelon1\Desktop\Hra_Projekt\Hra_Projekt_Komplet_Oficiální\Hra_model\obj\Debug\Hra_model.csproj.CoreCompileInputs.cache
+C:\Users\Angelon1\Desktop\Hra_Projekt\Hra_Projekt_Komplet_Oficiální\Hra_model\obj\Debug\Hra_model.csproj.CopyComplete
+C:\Users\Angelon1\Desktop\Hra_Projekt\Hra_Projekt_Komplet_Oficiální\Hra_model\obj\Debug\Hra_model.dll
+C:\Users\Angelon1\Desktop\Hra_Projekt\Hra_Projekt_Komplet_Oficiální\Hra_model\obj\Debug\Hra_model.pdb
